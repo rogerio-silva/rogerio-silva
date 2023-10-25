@@ -9,13 +9,17 @@
 
 - 🌱 I’m always trying to learn something
 
-- 📝 I regularly write articles on [5G, 6G, Resource allocation, UAVs-based communication, LoRaWAN, non3GPP-IoT](5G, 6G, Resource allocation, UAVs-based communication, LoRaWAN, non3GPP-IoT)
+- 📝 I regularly write articles on
+  -   [Mobile networks]()
+  -   [Resource allocation]()
+  -   [UAVs-based communication]()
+  -   [LoRaWAN]()
 
-- 💬 Ask me about **C, C++, NS-3, Mobile networks**
+- 💬 Ask me about **C, C++, NS-3, Mobile networks, ...**
 
 - 📫 How to reach me:
--   Professional: **rogerio.sousa@ifg.edu.br**
--   Personal: **rogeriosousaesilva@gmail.com**
+  -   Professional: **rogerio.sousa@ifg.edu.br**
+  -   Personal: **rogeriosousaesilva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
