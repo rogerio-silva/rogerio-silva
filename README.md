@@ -13,7 +13,9 @@
 
 - 💬 Ask me about **C, C++, NS-3, Mobile networks**
 
-- 📫 How to reach me **rogerio.sousa@ifg.edu.br**
+- 📫 How to reach me:
+-   Professional: **rogerio.sousa@ifg.edu.br**
+-   Personal: **rogeriosousaesilva@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
