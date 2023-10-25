@@ -4,11 +4,11 @@
 **rogerio-silva/rogerio-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 👨‍🏫 Professor at [Federal Institute of Goiás, Inhumas](https://www.ifg.edu.br/inhumas), Brazil...
 - 🎒 PhD student in Computer Science at [PPGCC - Federal University of Goiás](https://ppgcc.inf.ufg.br/)
 
-
+<!--
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
