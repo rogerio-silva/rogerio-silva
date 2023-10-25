@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rogério</h1>
-<h3 align="center">under development</h3>
+<h3 align="center">... under development ...</h3>
 
 👨‍🏫 Professor at [Federal Institute of Goiás, Inhumas, Brazil](https://www.ifg.edu.br/inhumas)
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dynamic resources allocation in non-3GPP IoT networks involving UAVs**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m always trying to learn something
 
 - 📝 I regularly write articles on [5G, 6G, Resource allocation, UAVs-based communication, LoRaWAN, non3GPP-IoT](5G, 6G, Resource allocation, UAVs-based communication, LoRaWAN, non3GPP-IoT)
 
