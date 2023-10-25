@@ -2,6 +2,7 @@
 <h3 align="center">under development</h3>
 
 👨‍🏫 Professor at [Federal Institute of Goiás, Inhumas, Brazil](https://www.ifg.edu.br/inhumas)
+
 🎒 Ph.D. student in Computer Science at [PPGCC - Federal University of Goiás](https://ppgcc.inf.ufg.br/)
 
 - 🔭 I’m currently working on **Dynamic resources allocation in non-3GPP IoT networks involving UAVs**
