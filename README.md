@@ -1,6 +1,6 @@
-[!Banner1](/img/black-banner-1.jpg)
+[!Banner1](/img/black-banner-1.png)
 
-[!Banner2](/img/black-banner-2.jpg)
+[!Banner2](/img/black-banner-2.png)
 
 <!--
 
