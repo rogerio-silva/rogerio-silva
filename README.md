@@ -1,4 +1,4 @@
-<img src="./img/profile.png usemap="map_rect">
+<img src="./img/profile.png" usemap="map_rect">
 
 <map name="map-rect"> 
     <area shape="rect" coords="18,26,220,226" 
