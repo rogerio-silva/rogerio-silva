@@ -10,12 +10,10 @@
 - 🌱 I’m always trying to learn something
 
 - 📝 I regularly write articles on
-  -   [Future networks](https://sol.sbc.org.br/index.php/w6g/article/view/24665/24486)[](http://editora.ifpb.edu.br/ifpb/catalog/view/401/209/1168-2)
-  -   [Resource allocation]()
-  -   [UAVs-based communication]()
-  -   [Network Intelligence - FL](https://sol.sbc.org.br/index.php/w6g/article/view/24660/24481)[](https://sol.sbc.org.br/index.php/w6g/article/view/17230/17068)
-
-- 💬 Ask me about **C, C++, NS-3, Mobile networks, ...**
+  -   Future networks [1🌟](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10207841), [2](https://sol.sbc.org.br/index.php/w6g/article/view/24665/24486), [3](http://editora.ifpb.edu.br/ifpb/catalog/view/401/209/1168-2)
+  -   IoT - non3GPP [1](https://sol.sbc.org.br/index.php/erigo/article/view/18443/18276)
+  -   UAV-based communications[1🌟](https://ieeexplore.ieee.org/document/10199941)
+  -   Network Intelligence[1](https://sol.sbc.org.br/index.php/w6g/article/view/24660/24481), [2](https://sol.sbc.org.br/index.php/w6g/article/view/17230/17068)
 
 - 📫 How to reach me:
   -   Professional: **rogerio.sousa@ifg.edu.br**
