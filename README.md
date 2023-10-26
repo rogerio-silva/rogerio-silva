@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rogério</h1>
 <h5 align="center">... always under development ...</h5>
 ---
+
 👨‍🏫 Professor at [Federal Institute of Goiás, Inhumas, Brazil](https://www.ifg.edu.br/inhumas)
 
 🎒 Ph.D. student in Computer Science at [PPGCC - Federal University of Goiás](https://ppgcc.inf.ufg.br/)
