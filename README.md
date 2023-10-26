@@ -10,10 +10,10 @@
 - 🌱 I’m always trying to learn something
 
 - 📝 I regularly write articles on
-  -   [Mobile networks]()
+  -   [Future networks](https://sol.sbc.org.br/index.php/w6g/article/view/24665/24486)[](http://editora.ifpb.edu.br/ifpb/catalog/view/401/209/1168-2)
   -   [Resource allocation]()
   -   [UAVs-based communication]()
-  -   [LoRaWAN]()
+  -   [Network Intelligence - FL](https://sol.sbc.org.br/index.php/w6g/article/view/24660/24481)[](https://sol.sbc.org.br/index.php/w6g/article/view/17230/17068)
 
 - 💬 Ask me about **C, C++, NS-3, Mobile networks, ...**
 
