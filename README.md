@@ -1,10 +1,9 @@
 <img src="./img/profile.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rogerio_sousa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rogerio_sousa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rogeriosousaesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rogeriosousaesilva" height="30" width="40" /></a>
-<a href="https://fb.com/rogeriosousaesilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rogeriosousaesilva" height="30" width="40" /></a>
-<a href="https://instagram.com/rogerio.ifg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rogerio.ifg" height="30" width="40" /></a>
+<a href="https://twitter.com/rogerio_sousa" target="blank"><img align="center" src="./img/x.png" alt="rogerio_sousa" height="30" width="40" /></a>
+<a href="https://fb.com/rogeriosousaesilva" target="blank"><img align="center" src="./img/face.png" alt="rogeriosousaesilva" height="30" width="40" /></a>
+<a href="https://instagram.com/rogerio.ifg" target="blank"><img align="center" src="./img/insta.png" alt="rogerio.ifg" height="30" width="40" /></a>
 </p>
 
 <!--
