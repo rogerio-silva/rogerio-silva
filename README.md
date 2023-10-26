@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rogério</h1>
 <h5 align="center">... always under development ...</h5>
+
 ---
 
 👨‍🏫 Professor at [Federal Institute of Goiás, Inhumas, Brazil](https://www.ifg.edu.br/inhumas)
@@ -23,6 +24,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rogerio.ifg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rogerio.ifg" height="30" width="40" /></a>
+</p>
+<a href="https://instagram.com/rogerio.ifg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rogerio.ifg" height="30" width="40" /></a>
+</p>
+<a href="https://instagram.com/rogerio.ifg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rogerio.ifg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
