@@ -1,8 +1,8 @@
 <img src="./img/profile.png" usemap="map_rect">
 
 <map name="map-rect"> 
-    <area shape="rect" coords="18,26,220,226" 
-        href="https://www.geeksforgeeks.org"/> 
+    <area shape="rect" coords="192,348,874,382" 
+        href="https://www.ifg.edu.br/inhumas"/> 
 </map>
 <!--
 
