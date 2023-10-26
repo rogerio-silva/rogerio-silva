@@ -1,6 +1,17 @@
-![profile](./img/profile.png)
+<img src="./img/profile.png usemap="map_rect">
 
+<map name="map-rect"> 
+    <area shape="rect" coords="18,26,220,226" 
+        href="https://www.geeksforgeeks.org"/> 
+</map>
 <!--
+
+<img src="gfg.png" usemap="map_rect"> 
+
+<map name="map-rect"> 
+    <area shape="rect" coords="18,26,220,226" 
+        href="https://www.geeksforgeeks.org"/> 
+</map>
 
 <h1 align="center">Hi 👋, I'm Rogério</h1>
 <h5 align="center">... always under development ...</h5>
