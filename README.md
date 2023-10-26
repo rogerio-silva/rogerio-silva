@@ -1,9 +1,9 @@
 <img src="./img/profile.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rogerio_sousa" target="blank"><img align="center" src="./img/x.png" alt="rogerio_sousa" height="30" width="40" /></a>
-<a href="https://fb.com/rogeriosousaesilva" target="blank"><img align="center" src="./img/face.png" alt="rogeriosousaesilva" height="30" width="40" /></a>
-<a href="https://instagram.com/rogerio.ifg" target="blank"><img align="center" src="./img/insta.png" alt="rogerio.ifg" height="30" width="40" /></a>
+<a href="https://twitter.com/rogerio_sousa" target="blank"><img align="center" src="./img/twitter_x.png" alt="rogerio_sousa" height="30" width="40" /></a>
+<a href="https://fb.com/rogeriosousaesilva" target="blank"><img align="center" src="./img/facebook.png" alt="rogeriosousaesilva" height="30" width="40" /></a>
+<a href="https://instagram.com/rogerio.ifg" target="blank"><img align="center" src="./img/instagram.png" alt="rogerio.ifg" height="30" width="40" /></a>
 </p>
 
 <!--
