@@ -1,13 +1,22 @@
 <img src="./img/profile.png">
 <h3 align="left">Summary:</h3>
-<p align="left">
-This repository is a playground for network enthusiasts where LoRaWAN, UAVs, and ns-3 simulations come together for some serious tech fun. Creations like "lorawan-gym" and "sliced-ns3-lorawan-module" aim to improve IoT networks and enhance the quality of service in complex simulations. The repository also delves deep into 5G and explores the use of UAVs as LoRaWAN gateways, pushing the boundaries of wireless networks and IoT research. Additionally, you can find class content, programming tips, scripts, and more for good measure!</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rogerio_sousa" target="blank"><img align="center" src="./img/twitter_x.png" alt="rogerio_sousa" height="30" width="40" /></a>
-<a href="https://fb.com/rogeriosousaesilva" target="blank"><img align="center" src="./img/facebook.png" alt="rogeriosousaesilva" height="30" width="40" /></a>
-<a href="https://instagram.com/rogerio.ifg" target="blank"><img align="center" src="./img/instagram.png" alt="rogerio.ifg" height="30" width="40" /></a>
-</p>
+<script>
+    const content = `<p align="left">
+    This repository is a playground for network enthusiasts where LoRaWAN, UAVs, and ns-3 simulations come together for some serious tech fun. Creations like "lorawan-gym" and "sliced-ns3-lorawan-module" aim to improve IoT networks and enhance the quality of service in complex simulations. The repository also delves deep into 5G and explores the use of UAVs as LoRaWAN gateways, pushing the boundaries of wireless networks and IoT research. Additionally, you can find class content, programming tips, scripts, and more for good measure!</p>
+    <h3 align="left">Connect with me:</h3>
+    <p align="left">
+    <a href="https://twitter.com/rogerio_sousa" target="blank"><img align="center" src="./img/twitter_x.png" alt="rogerio_sousa" height="30" width="40" /></a>
+    <a href="https://fb.com/rogeriosousaesilva" target="blank"><img align="center" src="./img/facebook.png" alt="rogeriosousaesilva" height="30" width="40" /></a>
+    <a href="https://instagram.com/rogerio.ifg" target="blank"><img align="center" src="./img/instagram.png" alt="rogerio.ifg" height="30" width="40" /></a>
+    </p>`;
+
+    if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+        document.write(`<div style="color: white;">${content}</div>`);
+    } else {
+        document.write(`<div style="color: black;">${content}</div>`);
+    }
+</script>
+
 
 <!--
 
