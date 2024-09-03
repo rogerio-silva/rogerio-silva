@@ -1,4 +1,8 @@
 <img src="./img/profile.png">
+<h3 align="left">Summary:</h3>
+<p align="left">
+Esse repositório reúne projetos focados na simulação e integração de redes, com destaque para LoRaWAN, UAVs e o simulador ns-3. Desenvolvimentos como os módulos "lorawan-gym" e "sliced-ns3-lorawan-module" são direcionados à otimização de redes IoT e à melhoria da Qualidade de Serviço (QoS) em ambientes de simulação complexos. Esses trabalhos também exploram o uso de 5G e UAVs como gateways LoRaWAN, contribuindo para a inovação e pesquisa em redes sem fio e IoT.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rogerio_sousa" target="blank"><img align="center" src="./img/twitter_x.png" alt="rogerio_sousa" height="30" width="40" /></a>
