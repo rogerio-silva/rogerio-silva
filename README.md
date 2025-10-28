@@ -6,7 +6,7 @@ This repository is a playground for network enthusiasts where LoRaWAN, UAVs, and
 
 ### Connect with me:
 [![Instagram](img/ins.png)](https://instagram.com/rogerio.ifg)
-[![LinkedIn](img/lin.png)](www.linkedin.com/in/rogerioifg)
+[![LinkedIn](img/lin.png)](https://www.linkedin.com/in/rogerioifg/)
 [![Bluesky](img/blu.png)](https://bsky.app/profile/ssrogerio.bsky.social)
 [![YouTube](img/you.png)](https://www.youtube.com/@rogerio_ss)
 [![Facebook](img/fac.png)](https://www.facebook.com/rogeriosousaesilva)
