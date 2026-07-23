@@ -30,9 +30,19 @@ No fim do arquivo há um bloco grande comentado em HTML marcado como **ARQUIVO H
 
 ## Pendências conhecidas
 
-- `img/profile.png` (288 KB) não é referenciado por nada.
-- `img/github-profile.png` tem 863 KB — candidato a otimização (`oxipng`/WebP).
+- `img/profile.png` (288 KB) e `img/github-profile.png` (863 KB) não são mais referenciados — o banner atual é `img/hero-rogerio-silva.png`.
+- O banner ainda tem 1,8 MB. Já passou por otimização PNG sem perda (`oxipng` nível 6 + zopfli, −7,4%); é conteúdo fotográfico, então o PNG não comprime muito mais. WebP lossless daria 1,46 MB (−26 %, pixels idênticos) se valer a troca de formato.
 - Campos do perfil no GitHub (fora deste repo): `bio` está como `"."` e `blog` está vazio.
+
+## Otimizar imagens
+
+Não há otimizador de PNG instalado no sistema (`oxipng`/`optipng`/`pngquant` ausentes) e o `sudo` pede senha. A rota sem root é o wheel `pyoxipng`:
+
+```bash
+uv venv .venv && uv pip install --python .venv/bin/python pyoxipng pillow
+```
+
+Use `strip=StripChunks.safe()` e sempre confirme que os pixels não mudaram comparando o SHA-256 de `Image.open(p).convert('RGBA').tobytes()` antes e depois.
 
 ## Convenções ao editar
 

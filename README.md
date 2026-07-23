@@ -1,8 +1,8 @@
-![Rogério S. Silva — redes móveis, IoT e VANTs](img/github-profile.png)
+![Rogério S. Silva — Professor, Pesquisador e Doutor em Ciências da Computação. Áreas: IoT, VANTs, 6G, Robótica, IA e Pesquisa aplicada](img/hero-rogerio-silva.png)
 
 # Olá, eu sou o Rogério 👋
 
-**Professor, Pesquisador e Extensionista no [IFG – Câmpus Inhumas](https://www.ifg.edu.br/inhumas)** · **Doutor em Ciência da Computação pelo [PPGCC/UFG](https://ppgcc.inf.ufg.br/) (2025)**
+**Professor, Pesquisador e Extensionista no [NumbERS Lab](https://numbers.ifg.edu.br/) – [IFG Câmpus Inhumas](https://www.ifg.edu.br/inhumas)** · **Doutor em Ciência da Computação pelo [PPGCC/UFG](https://ppgcc.inf.ufg.br/) (2025)**
 
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-0A66C2?style=flat-square&logo=academia&logoColor=white)](http://lattes.cnpq.br/5613876184151189)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com.br/citations?user=4nKkdegAAAAJ&hl=pt-BR)
@@ -34,10 +34,32 @@ Trabalho com **alocação dinâmica de recursos em redes IoT não-3GPP envolvend
 
 ## 📝 Publicações selecionadas
 
-- 🌟 **Redes futuras** — [IEEE (2023)](https://ieeexplore.ieee.org/document/10207841) · [SBC W6G](https://sol.sbc.org.br/index.php/w6g/article/view/24665/24486) · [Editora IFPB](http://editora.ifpb.edu.br/ifpb/catalog/view/401/209/1168-2)
-- 🌟 **Comunicações baseadas em VANTs** — [IEEE (2023)](https://ieeexplore.ieee.org/document/10199941)
-- **IoT não-3GPP** — [SBC ERIGO](https://sol.sbc.org.br/index.php/erigo/article/view/18443/18276)
-- **Inteligência de rede** — [SBC W6G (2023)](https://sol.sbc.org.br/index.php/w6g/article/view/24660/24481) · [SBC W6G (2021)](https://sol.sbc.org.br/index.php/w6g/article/view/17230/17068)
+**2025**
+
+- 🌟 *Power allocation and communication resource scheduling for federated learning in wireless IoT networks* — **Annals of Telecommunications** · [DOI](https://doi.org/10.1007/s12243-025-01089-x)
+
+**2024**
+
+- 🌟 *Integrating Multi-Access Edge Computing (MEC) into Open 5G Core* — **Telecom (MDPI)** · [DOI](https://doi.org/10.3390/telecom5020022)
+- *Soluções baseadas em aprendizado por reforço profundo para implantar VANTs como gateways LoRaWAN com foco na Qualidade de Serviço IoT* — **SBrT 2024** · [DOI](https://doi.org/10.14209/sbrt.2024.1571036460) · [código](https://github.com/rogerio-silva/A2C-LoVQI)
+- *Deep Q-Network para a Alocação dos Recursos de Comunicação do Aprendizado Federado em Redes IoT sem Fio* — **SBrT 2024** · [DOI](https://doi.org/10.14209/sbrt.2024.1571029322)
+- *QoS-aware Optimal Deployment of LoRa Gateways in UAV-enabled LoRaWANs* — **SBRC 2024** · [DOI](https://doi.org/10.5753/sbrc.2024.1443)
+- *Aprendizado Federado em Redes IoT sem Fio: Novo Algoritmo para a Seleção de Dispositivos e Alocação dos Recursos de Comunicação* — **SBRC 2024** · [DOI](https://doi.org/10.5753/sbrc.2024.1267)
+
+**2023**
+
+- 🌟 *Dynamic Resources Allocation in non-3GPP IoT Networks Involving UAVs* — **IEEE VTC2023-Spring** · [DOI](https://doi.org/10.1109/VTC2023-Spring57618.2023.10199941) · [código](https://github.com/rogerio-silva/non3GPP_IoT_simulations)
+- 🌟 *A Detailed Relevance Analysis of Enabling Technologies for 6G Architectures* — **IEEE Access** · [DOI](https://doi.org/10.1109/ACCESS.2023.3301811)
+- *Fatiamento de rede utilizando MEC para integrar V2X por meio do acesso Non-3GPP à rede 6G (5G/B5G)* — **W6G 2023** · [DOI](https://doi.org/10.5753/w6g.2023.752)
+- *Aprendizado Federado e Deep Q-Network habilitando VANTs como Infraestrutura em Redes 6G* — **W6G 2023** · [DOI](https://doi.org/10.5753/w6g.2023.719)
+
+**2021 e anteriores**
+
+- *Implementação de uma rede IoT LoRaWAN para integração com o núcleo 5G* — **ERI-GO 2021** · [DOI](https://doi.org/10.5753/erigo.2021.18443)
+- *Orquestração Inteligente de Network Slicing: Revisão da Literatura e Prospecção para Redes 6G* — **W6G 2021** · [DOI](https://doi.org/10.5753/w6g.2021.17230)
+- Capítulo no **Livro de Minicursos do SBrT 2020** — [Editora IFPB](http://editora.ifpb.edu.br/ifpb/catalog/view/401/209/1168-2)
+
+📚 Lista completa no [Google Scholar](https://scholar.google.com.br/citations?user=4nKkdegAAAAJ&hl=pt-BR) e no [Lattes](http://lattes.cnpq.br/5613876184151189).
 
 ## 👨‍🏫 Material de aula
 
