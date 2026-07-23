@@ -2,12 +2,20 @@
 
 # Olá, eu sou o Rogério 👋
 
-**Professor no [IFG – Câmpus Inhumas](https://www.ifg.edu.br/inhumas)** · **Doutorando em Ciência da Computação no [PPGCC/UFG](https://ppgcc.inf.ufg.br/)** · Pesquisador no **NumbERS Lab**
+**Professor, Pesquisador e Extensionista no [IFG – Câmpus Inhumas](https://www.ifg.edu.br/inhumas)** · **Doutor em Ciência da Computação pelo [PPGCC/UFG](https://ppgcc.inf.ufg.br/) (2025)**
 
 [![Lattes](https://img.shields.io/badge/Lattes-CNPq-0A66C2?style=flat-square&logo=academia&logoColor=white)](http://lattes.cnpq.br/5613876184151189)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com.br/citations?user=4nKkdegAAAAJ&hl=pt-BR)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--5189--1179-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-5189-1179)
 [![E-mail](https://img.shields.io/badge/rogerio.sousa%40ifg.edu.br-informational?style=flat-square&logo=maildotru&logoColor=white)](mailto:rogerio.sousa@ifg.edu.br)
+
+### 🤝 Onde me encontrar
+
+[![Instagram](img/ins.png)](https://instagram.com/rogerio.ifg)
+[![LinkedIn](img/lin.png)](https://www.linkedin.com/in/rogerioifg/)
+[![Bluesky](img/blu.png)](https://bsky.app/profile/ssrogerio.bsky.social)
+[![YouTube](img/you.png)](https://www.youtube.com/@rogerio_ss)
+[![Facebook](img/fac.png)](https://www.facebook.com/rogeriosousaesilva)
 
 ---
 
@@ -45,7 +53,7 @@ Boa parte deste perfil é material de apoio para as disciplinas do IFG — sinta
 
 <br>
 
-I'm a professor at the Federal Institute of Goiás (IFG), Inhumas campus, and a Ph.D. student in Computer Science at the Federal University of Goiás (UFG), with the NumbERS Lab.
+I'm a professor, researcher and outreach practitioner at the Federal Institute of Goiás (IFG), Inhumas campus. I hold a Ph.D. in Computer Science from the Federal University of Goiás (UFG), earned in 2025.
 
 My research addresses **dynamic resource allocation in non-3GPP IoT networks involving UAVs** — using drones as mobile LoRaWAN gateways with a focus on Quality of Service. It brings together LoRaWAN, 5G/6G networks, deep reinforcement learning and ns-3 simulation. Projects such as `lorawan-gym` and `sliced-ns3-lorawan-module` aim to improve IoT networks and QoS in complex simulation scenarios.
 
@@ -103,15 +111,6 @@ Alongside the research work, this profile hosts teaching material — class cont
 <!--
   Regenerado por Action, se quiser: Platane/snk (snake do gráfico de contribuições).
 -->
-
-
-## 🤝 Onde me encontrar
-
-[![Instagram](img/ins.png)](https://instagram.com/rogerio.ifg)
-[![LinkedIn](img/lin.png)](https://www.linkedin.com/in/rogerioifg/)
-[![Bluesky](img/blu.png)](https://bsky.app/profile/ssrogerio.bsky.social)
-[![YouTube](img/you.png)](https://www.youtube.com/@rogerio_ss)
-[![Facebook](img/fac.png)](https://www.facebook.com/rogeriosousaesilva)
 
 <!--
 =====================================================================

@@ -15,7 +15,9 @@ Publicar = commitar e dar push em `main`. Não existe pipeline de CI ou etapa de
 
 ## Estrutura do README
 
-Conteúdo visível, nessa ordem: banner → identidade (professor IFG / doutorando PPGCC-UFG / NumbERS Lab) + badge ORCID → *Pesquisa* (tabela de repos autorais) → *Publicações selecionadas* → *Material de aula* → `<details>` com a versão em inglês → *Ferramentas* → *Estatísticas* → *Onde me encontrar*.
+Conteúdo visível, nessa ordem: banner → identidade (professor/pesquisador/extensionista no IFG, doutor pelo PPGCC-UFG em 2025) → badges acadêmicos (Lattes, Scholar, ORCID, e-mail) → *Onde me encontrar* → *Pesquisa* (tabela de repos autorais) → *Publicações selecionadas* → *Material de aula* → `<details>` com a versão em inglês → *Ferramentas* → *Estatísticas*.
+
+A bio aparece em dois lugares: no cabeçalho em português e dentro do `<details>` "In English". Ao mudar titulação ou vínculo, atualize **os dois**.
 
 No fim do arquivo há um bloco grande comentado em HTML marcado como **ARQUIVO HISTÓRICO** — versões anteriores do perfil. **Preserve esse bloco** ao editar; ao reativar algo dali, mova para fora do comentário em vez de duplicar.
 
