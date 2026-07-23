@@ -19,6 +19,36 @@
 
 ---
 
+## 🧰 Ferramentas do dia a dia
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+## 📊 Estatísticas
+
+![Seguidores](https://img.shields.io/github/followers/rogerio-silva?style=flat-square&label=seguidores&color=0A66C2)
+![Estrelas](https://img.shields.io/github/stars/rogerio-silva?style=flat-square&label=estrelas&color=E3B341)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rogerio-silva&locale=pt_BR&theme=tokyonight&hide_border=true">
+  <img alt="Sequência de contribuições de Rogério S. Silva" src="https://streak-stats.demolab.com/?user=rogerio-silva&locale=pt_BR&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rogerio-silva&theme=tokyo-night&hide_border=true&days=90">
+  <img alt="Gráfico de atividade dos últimos 90 dias de Rogério S. Silva" src="https://github-readme-activity-graph.vercel.app/graph?username=rogerio-silva&theme=minimal&hide_border=true&days=90">
+</picture>
+
+---
+
 ## 🔬 Pesquisa
 
 Trabalho com **alocação dinâmica de recursos em redes IoT não-3GPP envolvendo VANTs**: uso de drones como *gateways* LoRaWAN móveis, com foco em Qualidade de Serviço. Na prática, isso junta LoRaWAN, redes 5G/6G, aprendizado por reforço profundo e simulação em **ns-3**.
@@ -82,34 +112,6 @@ My research addresses **dynamic resource allocation in non-3GPP IoT networks inv
 Alongside the research work, this profile hosts teaching material — class content, programming tips and scripts — used in my courses at IFG.
 
 </details>
-
-## 🧰 Ferramentas do dia a dia
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-## 📊 Estatísticas
-
-![Seguidores](https://img.shields.io/github/followers/rogerio-silva?style=flat-square&label=seguidores&color=0A66C2)
-![Estrelas](https://img.shields.io/github/stars/rogerio-silva?style=flat-square&label=estrelas&color=E3B341)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=rogerio-silva&locale=pt_BR&theme=tokyonight&hide_border=true">
-  <img alt="Sequência de contribuições de Rogério S. Silva" src="https://streak-stats.demolab.com/?user=rogerio-silva&locale=pt_BR&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=rogerio-silva&theme=tokyo-night&hide_border=true&days=90">
-  <img alt="Gráfico de atividade dos últimos 90 dias de Rogério S. Silva" src="https://github-readme-activity-graph.vercel.app/graph?username=rogerio-silva&theme=minimal&hide_border=true&days=90">
-</picture>
 
 <!--
   CARDS DO github-readme-stats — DESATIVADOS.
